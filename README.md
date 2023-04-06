@@ -10,4 +10,6 @@ I am currently considering purchasing a used car, and to determine whether the d
 
 ### Result
 I used Random Forest for predicting the price. The MAPE was 0.33, R^2 was 0.73, and RMSE was 5268.12. 
-The result of the feature im
+The result of the feature importance is as follows. We can describe that "odometer" was the most important variable to predict the used car price, followed by "year", which the car was manufactured, and "cylinders". The impact strength of "manufacturer", which is the brand of the car was smaller than those variables.
+
+<img src="https://user-images.githubusercontent.com/79394001/230261532-d68d6755-79fa-4f7c-a207-bc9ec60e2dc9.png" width="300">
